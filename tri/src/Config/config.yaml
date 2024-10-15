@@ -1,0 +1,18 @@
+SCREEN_PASSWORD : "11"
+
+LOG_FOLDER_PATH : "/usr/local/tri/log"
+
+LOG_FILE_NAME : "tri_log.log"
+
+IP : "172.19.128.174"
+レク製サーバーIP : "192.168.220.25"
+夏木環境IP : "172.19.130.199"
+
+RMS_PORT : "8895"
+
+WCS_PORT : "8080"
+
+DATABASE : {"USER": "ss", "PASSWORD": "2CFXyJcU@Ks0", "DATABASE": "tri"}
+
+# 20240820石川追記WCS履歴テーブル削除用
+HISTORY_SAVE_DAYS : 5
